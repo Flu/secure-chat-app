@@ -1,0 +1,5 @@
+D:\Projects\ChatApp\Entities\bin\Debug\Entities.dll
+D:\Projects\ChatApp\Entities\bin\Debug\Entities.pdb
+D:\Projects\ChatApp\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Projects\ChatApp\Entities\obj\Debug\Entities.dll
+D:\Projects\ChatApp\Entities\obj\Debug\Entities.pdb
